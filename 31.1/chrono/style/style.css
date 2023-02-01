@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Economica";
+  src: url(../font/Economica.zip);
+}
+#bombcs {
+  position: fixed;
+}
+
+button {
+  position: relative;
+  left: 170px;
+  top: 102px;
+}
+
+p {
+  color: rgb(102, 79, 22);
+  top: 160px;
+  left: 213px;
+  position: relative;
+  transform: rotate(4deg);
+}

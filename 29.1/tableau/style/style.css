@@ -1,0 +1,17 @@
+.brand-name {
+  text-align: center;
+}
+.model-item {
+  font-style: italic;
+}
+
+.buy-now {
+}
+
+/* .btn > span {
+    10px
+} */
+
+.red-border {
+  border: 2px solid red;
+}
